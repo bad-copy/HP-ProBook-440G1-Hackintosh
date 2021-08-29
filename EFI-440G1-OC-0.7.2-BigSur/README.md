@@ -46,9 +46,10 @@
 1. 核显：PciRoot(0x0)/Pci(0x2,0x0)，添加以下属性：
 
    AAPL,ig-platform-id -> 0600260A
+
    device-id -> 12040000
 
-2.   声卡：PciRoot(0x0)/Pci(0x1B,0x0)，配合AppleALC使用，添加以下属性：
+2. 声卡：PciRoot(0x0)/Pci(0x1B,0x0)，配合AppleALC使用，添加以下属性：
 
    layout-id -> 0D000000
 
