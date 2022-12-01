@@ -8,6 +8,10 @@
 
 # 更新历史
 
+## EFI-440G1-OC-0.6.8-Monterey
+
+1. OC界面上增加SIP切换选项
+
 ## EFI-440G1-OC-0.7.2-BigSur
 
 1. 将VoodooHDA替换为AppleALC，同时禁用HDMI音频
