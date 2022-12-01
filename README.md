@@ -8,7 +8,7 @@
 
 # 更新历史
 
-## EFI-440G1-OC-0.6.8-Monterey
+## EFI-440G1-OC-0.8.6-Monterey
 
 1. OC界面上增加SIP切换选项
 
