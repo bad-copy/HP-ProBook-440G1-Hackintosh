@@ -55,7 +55,7 @@
 4. AppleXcpmCfgLock设置为true；
 5. DisableRtcChecksum设置为true（防睡眠造成的bios重置）；
 6. 机型设置为MacBookPro11,4；
-7. 使用Hackintool注入EDID到overrides，解决显示器偏色问题（设备属性中注入无效）。
+7. 使用Hackintool注入EDID到overrides，解决显示器偏色问题。
 
 ## 已知问题
 
